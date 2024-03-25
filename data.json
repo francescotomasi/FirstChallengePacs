@@ -1,0 +1,10 @@
+{
+    "epsilon_residual" : 1e-6,
+    "epsilon_step" : 1e-6,
+    "alpha_0" : 0.1,
+    "mu" : 0.2,
+    "max_iterations" : 10000,
+    "sigma" : 0.2,
+    "x0" : [0.0, 0.0],
+    "alpha_method" : 0
+  }
